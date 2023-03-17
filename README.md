@@ -55,27 +55,32 @@ Learn how to deploy a virtual machine (VM) on Azure using the Azure portal with 
 <img src="https://i.imgur.com/2FzPRGm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Click the "Create" button. Click "Azure Virtual Machine" from the drop down.
+4. Click the "Create" button. Click "Azure Virtual Machine" from the drop down.
 </p>
 <br />
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RKg5gNO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+5. On the "Basics" tab, fill out the following information:
+
+- Subscription
+- Resource group: Select the one you just created.
+- Virtual machine name
+- Region
+- Availability options
+- Image
+- Size
+  
+  Be sure to select "Windows 11 Pro" beside "Image". 
+  
+  Each of these also have an asterick beside them indicating that they require selection
 </p>
 <br />
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/byWWGpA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+6. Check the box under licensing. Click "Review + Create". Click "Create" on the following screen.
 </p>
 <br />
