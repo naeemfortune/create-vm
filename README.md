@@ -20,6 +20,7 @@ Learn how to deploy a virtual machine (VM) on Azure using the Azure portal with 
 <h2>List of Prerequisites</h2>
 
 - An active Azure account
+- A Resource Group
 - An administrative username and password
 - An operating system image (e.g. Windows or Linux)
 - A virtual machine size (based on CPU and memory requirements)
@@ -28,6 +29,36 @@ Learn how to deploy a virtual machine (VM) on Azure using the Azure portal with 
 <h2>Installation Steps</h2>
 
 <p>
+<img src="https://i.imgur.com/AuaTqGW.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+1. Click on the "+ Create a resource" button in the top left corner of the screen..
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/toiNhxD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+2. Name your resource group, then click "Review + Create" in the bottom left corner. (You will click "create" once more on the following screen)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ZZ6ChTv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+3. In the search bar, type "Virtual machine" and select "Virtual machines" from the drop-down menu.
+</p>
+<br />
+
+<img src="https://i.imgur.com/2FzPRGm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click the "Create" button. Click "Azure Virtual Machine" from the drop down.
+</p>
+<br />
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -35,7 +66,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -43,7 +73,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
